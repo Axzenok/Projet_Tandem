@@ -1,0 +1,12 @@
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\bin\Debug\2023_lib_TANDEM.dll
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\bin\Debug\2023_lib_TANDEM.pdb
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.csproj.AssemblyReference.cache
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.csproj.CoreCompileInputs.cache
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.dll
+C:\Users\mazou\Documents\projet_TANDEM\librairie\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.pdb
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\bin\Debug\2023_lib_TANDEM.dll
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\bin\Debug\2023_lib_TANDEM.pdb
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.csproj.AssemblyReference.cache
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.csproj.CoreCompileInputs.cache
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.dll
+D:\Travail\Projet_Tandem_2023-main\Projet_Tandem_2023-main\2023_lib_TANDEM_v4\2023_lib_TANDEM_v2\obj\Debug\2023_lib_TANDEM.pdb
